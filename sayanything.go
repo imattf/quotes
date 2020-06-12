@@ -3,7 +3,7 @@
 //now...
 // build the code
 // git add -A
-// git commit -m "my msg"
+// git commit -m "added sayanthing"
 // git tag v0.1.0
 // git push
 // git push --tags
